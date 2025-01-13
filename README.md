@@ -6,12 +6,9 @@ This website is a showcase of my skills in web development, focusing on how to b
 
 - **Fully Responsive Design**: The website adjusts beautifully across devices of different screen sizes.
 - **Creative Animations**: A wide range of CSS-based animations that add an interactive and dynamic feel to the site.
-- **Minimalist Approach**: Using only HTTP and CSS to create a lightweight, fast, and efficient web application.
+- **Minimalist Approach**: Using only HTML and CSS to create a lightweight, fast, and efficient web application.
 
-## Technologies Used
 
-- **CSS**: For layout, styling, and animations.
-- **HTTP**: The core protocol for communication between the client and server.
 
 ## Design Philosophy
 
